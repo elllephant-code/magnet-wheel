@@ -1,0 +1,28 @@
+{
+    "name": "magnet-wheel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/elllephant-code/magnet-wheel.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/elllephant-code/magnet-wheel/issues"
+    },
+    "homepage": "https://github.com/elllephant-code/magnet-wheel#readme",
+    "dependencies": {
+        "@elllephant/wheel": "^1.0.5"
+    },
+    "devDependencies": {
+        "@types/jest": "^24.0.12",
+        "jest": "^24.8.0",
+        "ts-jest": "^24.0.2",
+        "typescript": "^3.4.5"
+    }
+}
